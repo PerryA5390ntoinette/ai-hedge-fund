@@ -53,7 +53,8 @@ testpaths = ["tests"]
 asyncio_mode = "auto"
 # Show verbose output and print statements during test runs for easier debugging
 # Added --tb=short for more concise tracebacks when tests fail
-addopts = "-v -s --tb=short"
+# Added --no-header to reduce noise in output
+addopts = "-v -s --tb=short --no-header"
 
 [build-system]
 requires = ["poetry-core"]
