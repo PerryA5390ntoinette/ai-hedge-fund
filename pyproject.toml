@@ -52,7 +52,8 @@ ignore_missing_imports = true
 testpaths = ["tests"]
 asyncio_mode = "auto"
 # Show verbose output and print statements during test runs for easier debugging
-addopts = "-v -s"
+# Added --tb=short for more concise tracebacks when tests fail
+addopts = "-v -s --tb=short"
 
 [build-system]
 requires = ["poetry-core"]
