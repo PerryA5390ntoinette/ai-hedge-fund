@@ -29,6 +29,8 @@ This system employs several agents working together:
 Note: the system does not actually make any trades.
 
 > **Personal note:** I forked this to study how multi-agent LLM systems can be structured for financial analysis. Particularly interested in comparing the outputs of value-oriented agents (Graham, Munger, Buffett) vs. growth-oriented agents (Wood, Fisher) on the same ticker.
+>
+> **My default tickers for testing:** AAPL, MSFT, NVDA — useful benchmarks since they sit at the intersection of value and growth debates.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/virattt?style=social)](https://twitter.com/virattt)
 
@@ -44,11 +46,4 @@ This project is for **educational and research purposes only**.
 
 By using this software, you agree to use it solely for learning purposes.
 
-## Table of Contents
-- [How to Install](#how-to-install)
-- [How to Run](#how-to-run)
-  - [⌨️ Command Line Interface](#️-command-line-interface)
-  - [🖥️ Web Application](#️-web-application)
-- [How to Contribute](#how-to-contribute)
-- [Feature Requests](#feature-requests)
-- [License](#licens
+## Table of C
