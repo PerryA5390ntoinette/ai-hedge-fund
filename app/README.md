@@ -111,4 +111,4 @@ FINANCIAL_DATASETS_API_KEY=your-financial-datasets-api-key
 ANTHROPIC_API_KEY=your-anthropic-api-key
 ```
 
-> **Note (personal):** I primarily use `OPENAI_API_KEY` + `FINANCIAL_DATASETS_API_KEY` for local experimentation. The Groq and Anthropic keys are optional unless you want to test those model providers.
+> **Note (personal):** I primarily use `OPENAI_API_KEY` + `FINANCIAL_DATASETS_API_KEY` for local testing. The Groq and Anthropic keys are optional but useful for comparing model outputs.
