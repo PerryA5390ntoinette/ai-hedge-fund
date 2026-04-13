@@ -51,6 +51,8 @@ ignore_missing_imports = true
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 asyncio_mode = "auto"
+# Show verbose output and print statements during test runs for easier debugging
+addopts = "-v -s"
 
 [build-system]
 requires = ["poetry-core"]
