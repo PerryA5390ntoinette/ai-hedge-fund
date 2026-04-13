@@ -31,6 +31,8 @@ Note: the system does not actually make any trades.
 > **Personal note:** I forked this to study how multi-agent LLM systems can be structured for financial analysis. Particularly interested in comparing the outputs of value-oriented agents (Graham, Munger, Buffett) vs. growth-oriented agents (Wood, Fisher) on the same ticker.
 >
 > **My default tickers for testing:** AAPL, MSFT, NVDA — useful benchmarks since they sit at the intersection of value and growth debates.
+>
+> **Agents I find most interesting to compare:** Graham vs. Wood (classic value vs. disruptive growth) and Taleb vs. Ackman (risk-averse vs. high-conviction bold bets). Running all four on the same ticker at the same time surfaces some genuinely illuminating disagreements.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/virattt?style=social)](https://twitter.com/virattt)
 
@@ -42,8 +44,3 @@ This project is for **educational and research purposes only**.
 - No investment advice or guarantees provided
 - Creator assumes no liability for financial losses
 - Consult a financial advisor for investment decisions
-- Past performance does not indicate future results
-
-By using this software, you agree to use it solely for learning purposes.
-
-## Table of C
