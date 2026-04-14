@@ -106,6 +106,9 @@ GROQ_API_KEY=your-groq-api-key
 
 # For getting financial data (required for stock analysis)
 FINANCIAL_DATASETS_API_KEY=your-financial-datasets-api-key
+
+# Optional: For running LLMs hosted by anthropic (claude-3-5-sonnet, etc.)
+ANTHROPIC_API_KEY=your-anthropic-api-key
 ```
 
-> **Note (personal):** I've found that having at least `OPENAI_API_KEY` and `FINANCIAL_DATASETS_API_KEY` set is enough to get the basic agents running. The Groq key is optional but useful for faster/cheaper inference with open-source models.
+> **Note (personal):** I primarily use `OPENAI_API_KEY` + `FINANCIAL_DATASETS_API_KEY` for day-to-day experimentation. The Groq and Anthropic keys are optional but worth adding if you want to compare model outputs.
