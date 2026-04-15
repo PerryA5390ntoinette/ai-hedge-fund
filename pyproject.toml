@@ -54,8 +54,8 @@ asyncio_mode = "auto"
 # Show verbose output and print statements during test runs for easier debugging
 # Added --tb=short for more concise tracebacks when tests fail
 # Added --no-header to reduce noise in output
-# Added -p no:warnings to suppress deprecation warnings cluttering output
-addopts = "-v -s --tb=short --no-header -p no:warnings"
+# Removed -p no:warnings so deprecation warnings are visible during local dev
+addopts = "-v -s --tb=short --no-header"
 
 [build-system]
 requires = ["poetry-core"]
