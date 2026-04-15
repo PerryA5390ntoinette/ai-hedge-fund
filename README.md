@@ -34,8 +34,6 @@ Note: the system does not actually make any trades.
 >
 > **Agents I find most interesting to compare:** Graham vs. Wood (classic value vs. disruptive growth) and Taleb vs. Ackman (risk-averse vs. high-conviction bold bets). Running all four on the same ticker at the same time surfaces some genuinely illuminating disagreements.
 >
-> **Secondary watchlist for testing:** META, AMD, BRK.B — added to get a broader spread: a platform/ad business, a semiconductor underdog, and a pure Buffett-style holding company. Good for stress-testing whether the agents' outputs stay internally consistent with their stated philosophies.
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/virattt?style=social)](https://twitter.com/virattt)
-
-## 
+> **Secondary watchlist for testing:** META, AMD, BRK.B — added to get a broader spread: a platform/ad business, a semiconductor play, and a Buffett holding company (useful as a sanity check against the Buffett agent's own output).
+>
+> **Agent agreement scoring (idea for future exploration):** Would be interesting to add a simple tally of how many agents agree on buy/hold/sell for a given ticker, and flag tickers where there is unusually high or low consensus. High disagreement between agents is often more informative than the individual signals.
