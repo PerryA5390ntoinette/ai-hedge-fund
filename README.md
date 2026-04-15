@@ -33,14 +33,9 @@ Note: the system does not actually make any trades.
 > **My default tickers for testing:** AAPL, MSFT, NVDA — useful benchmarks since they sit at the intersection of value and growth debates.
 >
 > **Agents I find most interesting to compare:** Graham vs. Wood (classic value vs. disruptive growth) and Taleb vs. Ackman (risk-averse vs. high-conviction bold bets). Running all four on the same ticker at the same time surfaces some genuinely illuminating disagreements.
+>
+> **Secondary watchlist for testing:** META, AMD, BRK.B — added to get a broader spread: a platform/ad business, a semiconductor underdog, and a pure Buffett-style holding company. Good for stress-testing whether the agents' outputs stay internally consistent with their stated philosophies.
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/virattt?style=social)](https://twitter.com/virattt)
 
-## Disclaimer
-
-This project is for **educational and research purposes only**.
-
-- Not intended for real trading or investment
-- No investment advice or guarantees provided
-- Creator assumes no liability for financial losses
-- Consult a financial advisor for investment decisions
+## 
