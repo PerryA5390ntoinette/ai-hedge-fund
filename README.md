@@ -34,6 +34,6 @@ Note: the system does not actually make any trades.
 >
 > **Agents I find most interesting to compare:** Graham vs. Wood (classic value vs. disruptive growth) and Taleb vs. Ackman (risk-averse vs. high-conviction bold bets). Running all four on the same ticker at the same time surfaces some genuinely illuminating disagreements.
 >
-> **Secondary watchlist for testing:** META, AMD, BRK.B — added to get a broader spread: a platform/ad business, a semiconductor play, and a Buffett holding company (useful as a sanity check against the Buffett agent's own output).
+> **Secondary watchlist for testing:** META, AMD, BRK.B — added to get a broader spread: a platform/ad business, a semiconductor play, and a pure value holding company.
 >
-> **Agent agreement scoring (idea for future exploration):** Would be interesting to add a simple tally of how many agents agree on buy/hold/sell for a given ticker, and flag tickers where there is unusually high or low consensus. High disagreement between agents is often more informative than the individual signals.
+> **Observation so far:** Taleb's agent tends to flag caution on nearly everything high-multiple, while Ackman's agent swings bullish on the same names. The contrast is most stark on NVDA — worth running that pairing specifically if you're exploring agent disagreement as a signal in itself.
