@@ -68,6 +68,8 @@ The API will be available at:
 - API Documentation: http://localhost:8001/docs
 - Interactive Docs (ReDoc): http://localhost:8001/redoc
 
+> **Personal note:** I also run a local Ollama instance on port 11434 for experimenting with local models. If you do the same, make sure to set `OLLAMA_BASE_URL=http://localhost:11434` in your `.env` file.
+
 ## API Endpoints
 
 - `POST /hedge-fund/run`: Run the AI Hedge Fund with specified parameters
@@ -96,5 +98,4 @@ app/backend/
 
 This project is for **educational and research purposes only**.
 
-- Not intended for real trading or investment
-- No warranties
+- Not 
